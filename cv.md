@@ -16,3 +16,20 @@ Contact information:
 - Discord: Gerodin
 
 - LinkedIn: https://www.linkedin.com/in/vladimir-gorbov-9a2b4215/
+
+## Knowledge
+
+- HTML/CSS
+- Canvas/ Figma
+- Linux
+- Git
+- Windows
+
+
+Code example:  
+-------------
+
+    function multiply(a, b){
+    return a * b
+    }
+    multiply(4, 7)
