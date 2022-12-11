@@ -1,1 +1,1 @@
-https://gerodin.github.io/rsschool-cv/cv
+https://gerodin.github.io/rsschool-cv
