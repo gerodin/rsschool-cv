@@ -33,3 +33,9 @@ Code example:
     return a * b
     }
     multiply(4, 7)
+	
+	
+## About me
+
+
+Soft skills: streesless, cheerles
