@@ -1,2 +1,1 @@
-# rsschool-cv
-repositorium for CV project at RS School
+https://gerodin.github.io/rsschool-cv/cv
